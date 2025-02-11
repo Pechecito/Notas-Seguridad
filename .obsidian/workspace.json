@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "09d957368503c45f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b722987c49cb05a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f276c70d936625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/GenerallSkills/Obedient Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obedient Cat"
+            }
+          },
+          {
+            "id": "a6f82b1356aaa8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/GenerallSkills/First Grep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Grep"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "de1c476c0646da97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeaffdbf318f8ce9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2be73ddbb845f142",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f496cca9bdbe55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e721bc790d6e968",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "2c5fb991e9301282",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "4fdec7241b347f28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05464e6fa3cd17df",
+    "type": "split",
+    "children": [
+      {
+        "id": "be50de923ef4bc59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "060d5af78906dc73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PicoCTF/GenerallSkills/First Grep.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de First Grep"
+            }
+          },
+          {
+            "id": "36a1158cb24fd793",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PicoCTF/GenerallSkills/First Grep.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de First Grep"
+            }
+          },
+          {
+            "id": "018302c78831295d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cc10e0541792010a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PicoCTF/GenerallSkills/First Grep.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de First Grep"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a6f82b1356aaa8a5",
+  "lastOpenFiles": [
+    "PicoCTF/GenerallSkills/2Warm.md",
+    "PicoCTF/GenerallSkills/BASES.md",
+    "PicoCTF/GenerallSkills/Obedient Cat.md",
+    "README.md",
+    "PicoCTF/GenerallSkills/Lets Warm Up.md",
+    "PicoCTF/GenerallSkills/First Grep.md",
+    "flag",
+    "Bienvenido.md",
+    "PicoCTF/GenerallSkills",
+    "PicoCTF"
+  ]
+}
