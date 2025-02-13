@@ -5,6 +5,7 @@ Can you find the flag in [file](https://jupiter.challenges.picoctf.org/static/5
 Submit your answer in our flag format. For example, if your answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
 
 ### Solución 
-1-.Fui a cypherchef
-2-.Le meti a la entrada un base64 el texto
-3-.Se decifro. 
+```
+PecheZ-picoctf@webshell:~/retos$ cat file | grep "pico"
+picoCTF{grep_is_good_to_find_things_5af9d829}
+```
