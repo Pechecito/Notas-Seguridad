@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/GenerallSkills/what's a net cat?.md",
+                "file": "PicoCTF/GenerallSkills/First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what's a net cat?"
+              "title": "First Find"
             }
           }
         ],
@@ -185,16 +185,32 @@
   },
   "active": "a6f82b1356aaa8a5",
   "lastOpenFiles": [
+    "PicoCTF/GenerallSkills/big zip.md",
+    "PicoCTF/GenerallSkills/First Find.md",
+    "PicoCTF/GenerallSkills/repetitions.md",
+    "PicoCTF/GenerallSkills/Magikarp Ground Mission.md",
+    "PicoCTF/GenerallSkills/Tab, Tab, Attack.md",
+    "PicoCTF/GenerallSkills/useless.md",
+    "PicoCTF/GenerallSkills/Static ain't always noise.md",
+    "PicoCTF/GenerallSkills/Wave a flag.md",
+    "PicoCTF/GenerallSkills/strings it.md",
+    "PicoCTF/GenerallSkills/Based.md",
+    "PicoCTF/GenerallSkills/Nice Cat.md",
+    "Propios/Reverse/vault-door-5.md",
+    "Propios/Reverse",
+    "PicoCTF/GenerallSkills/Glitch Cat.md",
+    "Propios/Forensics/Scan Surprise.md",
+    "Propios/Forensics/Verify.md",
+    "PicoCTF/GenerallSkills/2Warm.md",
+    "Propios/Forensics",
+    "PicoCTF/GenerallSkills/what's a net cat?.md",
+    "Propios",
     "PicoCTF/GenerallSkills/plumbing.md",
     "PicoCTF/GenerallSkills/Obedient Cat.md",
     "PicoCTF/GenerallSkills/Lets Warm Up.md",
-    "PicoCTF/GenerallSkills/Glitch Cat.md",
     "PicoCTF/GenerallSkills/BASES.md",
     "PicoCTF/GenerallSkills/First Grep.md",
-    "PicoCTF/GenerallSkills/2Warm.md",
-    "PicoCTF/GenerallSkills/what's a net cat?.md",
     "PicoCTF/GenerallSkills/Warmed Up.md",
-    "PicoCTF/GenerallSkills/Nice Cat.md",
     "README.md",
     "flag",
     "Bienvenido.md",
