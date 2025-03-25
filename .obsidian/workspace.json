@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7b722987c49cb05a",
+        "id": "de3f6a569d20ac6f",
         "type": "tabs",
         "children": [
           {
-            "id": "b8f276c70d936625",
+            "id": "4767f87a888c75fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/GenerallSkills/plumbing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "plumbing"
-            }
-          },
-          {
-            "id": "a6f82b1356aaa8a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/GenerallSkills/First Find.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Find"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -175,18 +156,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a6f82b1356aaa8a5",
+  "active": "4767f87a888c75fb",
   "lastOpenFiles": [
-    "PicoCTF/GenerallSkills/big zip.md",
+    "Hola.md",
     "PicoCTF/GenerallSkills/First Find.md",
+    "PicoCTF/GenerallSkills/plumbing.md",
+    "PicoCTF/GenerallSkills/big zip.md",
     "PicoCTF/GenerallSkills/repetitions.md",
     "PicoCTF/GenerallSkills/Magikarp Ground Mission.md",
     "PicoCTF/GenerallSkills/Tab, Tab, Attack.md",
@@ -205,7 +188,6 @@
     "Propios/Forensics",
     "PicoCTF/GenerallSkills/what's a net cat?.md",
     "Propios",
-    "PicoCTF/GenerallSkills/plumbing.md",
     "PicoCTF/GenerallSkills/Obedient Cat.md",
     "PicoCTF/GenerallSkills/Lets Warm Up.md",
     "PicoCTF/GenerallSkills/BASES.md",
