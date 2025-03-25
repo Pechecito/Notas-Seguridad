@@ -8,16 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4767f87a888c75fb",
+            "id": "aa615ccde8686eb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/GenerallSkills/fixme1-py.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "fixme1-py"
+            }
+          },
+          {
+            "id": "e30791156653f979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/GenerallSkills/fixme2-py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fixme2-py"
+            }
+          },
+          {
+            "id": "a8af2b646b0d9275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/GenerallSkills/PW-Crack3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PW-Crack3"
+            }
+          },
+          {
+            "id": "489b193aaaf1ddad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/GenerallSkills/Serpentine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serpentine"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -40,7 +87,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -156,20 +203,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4767f87a888c75fb",
+  "active": "489b193aaaf1ddad",
   "lastOpenFiles": [
-    "Hola.md",
+    "PicoCTF/GenerallSkills/CodeBook.md",
+    "PicoCTF/GenerallSkills/README.md",
+    "PicoCTF/GenerallSkills/Serpentine.md",
+    "PicoCTF/GenerallSkills/fixme2-py.md",
+    "PicoCTF/GenerallSkills/PW-Crack3.md",
+    "PicoCTF/GenerallSkills/PW-Crack2.md",
+    "PicoCTF/GenerallSkills/PW-Crack1.md",
+    "PicoCTF/GenerallSkills/fixme1-py.md",
+    "PicoCTF/GenerallSkills/runme-py.md",
+    "PicoCTF/GenerallSkills/Super SSH.md",
+    "PicoCTF/GenerallSkills/big zip.md",
+    "PicoCTF/GenerallSkills/BASES.md",
+    "PicoCTF/GenerallSkills/Based.md",
+    "PicoCTF/GenerallSkills/2Warm.md",
+    "PicoCTF/GenerallSkills/Hola.md",
     "PicoCTF/GenerallSkills/First Find.md",
     "PicoCTF/GenerallSkills/plumbing.md",
-    "PicoCTF/GenerallSkills/big zip.md",
     "PicoCTF/GenerallSkills/repetitions.md",
     "PicoCTF/GenerallSkills/Magikarp Ground Mission.md",
     "PicoCTF/GenerallSkills/Tab, Tab, Attack.md",
@@ -177,25 +237,12 @@
     "PicoCTF/GenerallSkills/Static ain't always noise.md",
     "PicoCTF/GenerallSkills/Wave a flag.md",
     "PicoCTF/GenerallSkills/strings it.md",
-    "PicoCTF/GenerallSkills/Based.md",
     "PicoCTF/GenerallSkills/Nice Cat.md",
     "Propios/Reverse/vault-door-5.md",
     "Propios/Reverse",
-    "PicoCTF/GenerallSkills/Glitch Cat.md",
-    "Propios/Forensics/Scan Surprise.md",
-    "Propios/Forensics/Verify.md",
-    "PicoCTF/GenerallSkills/2Warm.md",
     "Propios/Forensics",
-    "PicoCTF/GenerallSkills/what's a net cat?.md",
     "Propios",
-    "PicoCTF/GenerallSkills/Obedient Cat.md",
-    "PicoCTF/GenerallSkills/Lets Warm Up.md",
-    "PicoCTF/GenerallSkills/BASES.md",
-    "PicoCTF/GenerallSkills/First Grep.md",
-    "PicoCTF/GenerallSkills/Warmed Up.md",
-    "README.md",
     "flag",
-    "Bienvenido.md",
     "PicoCTF/GenerallSkills",
     "PicoCTF"
   ]
