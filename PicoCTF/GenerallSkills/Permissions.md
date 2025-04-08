@@ -16,4 +16,4 @@ Al ejecutar
 ```bash
 sudo vi /root
 ``` 
-Nos apareció los archivos y ya podía navegar por los archivos existentes de la capeta indicada, ahí estaba la flag, solo se le dio enter y me daba la flag
+Nos apareció los archivos y ya podía navegar por los archivos existentes de la capeta indicada, ahí estaba la flag, solo se le dio enter y me daba la flaggg
