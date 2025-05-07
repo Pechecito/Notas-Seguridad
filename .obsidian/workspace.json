@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e200ea9162ae8ce",
+            "id": "75faea3558596b45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "PicoCTF/GenerallSkills/rust fixme 3.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.10"
               },
-              "icon": "lucide-file",
-              "title": "rust fixme 3"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ]
@@ -44,7 +42,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -160,30 +158,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2e200ea9162ae8ce",
+  "active": "75faea3558596b45",
   "lastOpenFiles": [
-    "PicoCTF/GenerallSkills/rust fixme 2.md",
+    "PicoCTF/GenerallSkills/Sin título.md",
+    "PicoCTF/GenerallSkills/Hola.md",
+    "PicoCTF/GenerallSkills/Commite Issues.md",
+    "PicoCTF/web/picobrowser.md",
+    "PicoCTF/web/dont-use-client-side.md",
+    "PicoCTF/web/Client-side-again.md",
     "PicoCTF/GenerallSkills/rust fixme 3.md",
+    "PicoCTF/GenerallSkills/rust fixme 2.md",
     "PicoCTF/GenerallSkills/rust fixme 1.md",
     "PicoCTF/GenerallSkills/python wranglig.md",
-    "PicoCTF/GenerallSkills/HashingJobApp.md",
-    "PicoCTF/GenerallSkills/FANTASY CTF.md",
-    "PicoCTF/GenerallSkills/Untitled.md",
-    "PicoCTF/GenerallSkills/Untitled",
     "PicoCTF/GenerallSkills/dont-you-love-banners.md",
+    "PicoCTF/GenerallSkills/Untitled.md",
     "PicoCTF/GenerallSkills/Specializer.md",
     "PicoCTF/GenerallSkills/SabsAlpha.md",
-    "PicoCTF/GenerallSkills/Obedient Cat.md",
-    "PicoCTF/GenerallSkills/fixme2-py.md",
-    "PicoCTF/GenerallSkills/fixme1-py.md",
+    "PicoCTF/GenerallSkills/HashingJobApp.md",
+    "PicoCTF/GenerallSkills/FANTASY CTF.md",
+    "PicoCTF/GenerallSkills/Commitment Issues.md",
+    "PicoCTF/web/logon.md",
+    "PicoCTF/web/Insp3ct0r.md",
+    "PicoCTF/GenerallSkills/Time Machine.md",
+    "PicoCTF/GenerallSkills/Permissions.md",
     "PicoCTF/web/WebSockFish.md",
     "Adjuntos/Pasted image 20250415144015.png",
     "PicoCTF/web/SSTI2.md",
@@ -195,16 +200,8 @@
     "PicoCTF/web/findme.md",
     "Adjuntos/Pasted image 20250415131826.png",
     "Adjuntos/Pasted image 20250415131412.png",
-    "PicoCTF/web/SSTI1.md",
-    "PicoCTF/web/n0s4n1ty 1.md",
-    "PicoCTF/web/head dump.md",
-    "PicoCTF/web/Cookie Monster Secret Recipe.md",
-    "PicoCTF/web/Bookmarklet.md",
     "Adjuntos/Pasted image 20250414194838.png",
-    "PicoCTF/web/logon.md",
-    "PicoCTF/web/where are the robots.md",
     "Adjuntos/Pasted image 20250412124740.png",
-    "PicoCTF/web/Insp3ct0r.md",
     "Adjuntos/Pasted image 20250408162357.png",
     "Adjuntos/Pasted image 20250408155942.png",
     "Plantilas",
