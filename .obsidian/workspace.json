@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8062e761117d000a",
+        "id": "4350370e719c71c9",
         "type": "tabs",
         "children": [
           {
-            "id": "75faea3558596b45",
+            "id": "4cff324ac4a051fa",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "PicoCTF/web/Most Cookies.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Most Cookies"
             }
           }
         ]
@@ -166,8 +168,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "75faea3558596b45",
+  "active": "4cff324ac4a051fa",
   "lastOpenFiles": [
+    "PicoCTF/web/Most Cookies.md",
     "PicoCTF/GenerallSkills/Sin título.md",
     "PicoCTF/GenerallSkills/Hola.md",
     "PicoCTF/GenerallSkills/Commite Issues.md",
@@ -197,7 +200,6 @@
     "Adjuntos/Pasted image 20250415134914.png",
     "Adjuntos/Pasted image 20250415134900.png",
     "Adjuntos/Pasted image 20250415134828.png",
-    "PicoCTF/web/findme.md",
     "Adjuntos/Pasted image 20250415131826.png",
     "Adjuntos/Pasted image 20250415131412.png",
     "Adjuntos/Pasted image 20250414194838.png",
