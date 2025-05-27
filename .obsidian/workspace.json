@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be1e305cd28640ee",
+        "id": "49e7d4129873987e",
         "type": "tabs",
         "children": [
           {
-            "id": "5cd6289252491365",
+            "id": "5d04bf737fceaff4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Cripto/RsaPopQuiz.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "RsaPopQuiz"
-            }
-          },
-          {
-            "id": "80b5c342aee61db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/GenerallSkills/ASCII Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ASCII Numbers"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bina",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,16 +164,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80b5c342aee61db7",
+  "active": "5d04bf737fceaff4",
   "lastOpenFiles": [
-    "PicoCTF/GenerallSkills/binhexa.md",
+    "PicoCTF/web/WebDecode.md",
+    "PicoCTF/web/IntroToBurp.md",
+    "PicoCTF/web/Unminify.md",
+    "PicoCTF/web/SQLiLite.md",
+    "PicoCTF/web/Secrets.md",
+    "PicoCTF/web/Robot Sans.md",
+    "PicoCTF/web/Power Cookie.md",
+    "PicoCTF/web/Local Authority.md",
+    "PicoCTF/Cripto/RsaPopQuiz.md",
+    "PicoCTF/web/Inspect HTML.md",
+    "PicoCTF/web/Insp3ct0r.md",
+    "PicoCTF/web/Includes.md",
     "PicoCTF/GenerallSkills/ASCII Numbers.md",
+    "PicoCTF/GenerallSkills/binhexa.md",
     "PicoCTF/GenerallSkills/Binary Search.md",
     "PicoCTF/GenerallSkills/Collaborative Development.md",
     "PicoCTF/Cripto/b00tl3gRSA3.md",
     "PicoCTF/Cripto/Mind your Ps and Qs.md",
     "PicoCTF/Cripto/b00tl3gRSA2.md",
-    "PicoCTF/Cripto/RsaPopQuiz.md",
     "Adjuntos/Pasted image 20250522133939.png",
     "PicoCTF/Cripto/miniRSA.md",
     "PicoCTF/Cripto",
@@ -202,17 +194,6 @@
     "PicoCTF/Forensics/Sleuthkit Intro.md",
     "PicoCTF/Forensics/diskdisksleuth.md",
     "PicoCTF/Forensics/milkslap.md",
-    "PicoCTF/web/Scaveer.md",
-    "PicoCTF/web/Cookies.md",
-    "PicoCTF/web/GET aHEAD.md",
-    "PicoCTF/web/Most Cookies.md",
-    "PicoCTF/GenerallSkills/Sin título.md",
-    "PicoCTF/GenerallSkills/Hola.md",
-    "PicoCTF/GenerallSkills/Commite Issues.md",
-    "PicoCTF/web/picobrowser.md",
-    "PicoCTF/web/dont-use-client-side.md",
-    "PicoCTF/web/Client-side-again.md",
-    "PicoCTF/GenerallSkills/rust fixme 3.md",
     "Adjuntos/Pasted image 20250415144015.png",
     "Adjuntos/Pasted image 20250415134914.png",
     "Adjuntos/Pasted image 20250415134900.png",
