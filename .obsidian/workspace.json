@@ -11,10 +11,14 @@
             "id": "5d04bf737fceaff4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensics/MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MacroHard WeakEdge"
             }
           }
         ]
@@ -166,6 +170,11 @@
   },
   "active": "5d04bf737fceaff4",
   "lastOpenFiles": [
+    "PicoCTF/Forensics/tunn3l v1s10n.md",
+    "PicoCTF/Forensics/Matryoshka doll.md",
+    "PicoCTF/Forensics/WebNet0.md",
+    "PicoCTF/Forensics/WebNet1.md",
+    "PicoCTF/Forensics/MacroHard WeakEdge.md",
     "PicoCTF/web/WebDecode.md",
     "PicoCTF/web/IntroToBurp.md",
     "PicoCTF/web/Unminify.md",
@@ -189,11 +198,6 @@
     "PicoCTF/Cripto/miniRSA.md",
     "PicoCTF/Cripto",
     "PicoCTF/Forensics/Operation Oni.md",
-    "PicoCTF/Forensics/Operation Orchid.md",
-    "PicoCTF/Forensics/sleuthkit Appretience.md",
-    "PicoCTF/Forensics/Sleuthkit Intro.md",
-    "PicoCTF/Forensics/diskdisksleuth.md",
-    "PicoCTF/Forensics/milkslap.md",
     "Adjuntos/Pasted image 20250415144015.png",
     "Adjuntos/Pasted image 20250415134914.png",
     "Adjuntos/Pasted image 20250415134900.png",
