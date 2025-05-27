@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensics/MacroHard WeakEdge.md",
+                "file": "PicoCTF/GenerallSkills/rust fixme 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MacroHard WeakEdge"
+              "title": "rust fixme 3"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Tallin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,11 +171,25 @@
   },
   "active": "5d04bf737fceaff4",
   "lastOpenFiles": [
+    "PicoCTF/GenerallSkills/rust fixme 1.md",
+    "PicoCTF/GenerallSkills/rust fixme 2.md",
+    "PicoCTF/GenerallSkills/python wranglig.md",
+    "PicoCTF/GenerallSkills/rust fixme 3.md",
+    "PicoCTF/Forensics/flags are stepic.md",
+    "PicoCTF/Forensics/Ph4nt0m 1ntrud3r.md",
+    "PicoCTF/Forensics/RED.md",
+    "PicoCTF/Forensics/Secret of the Polyglot.md",
+    "PicoCTF/Forensics/CanYouSee.md",
+    "PicoCTF/Forensics/hideme.md",
+    "PicoCTF/Forensics/Scan Surprise.md",
+    "PicoCTF/Forensics/Redaction gone wrong.md",
+    "PicoCTF/Forensics/st3go.md",
+    "PicoCTF/Forensics/Information.md",
+    "PicoCTF/Forensics/MacroHard WeakEdge.md",
     "PicoCTF/Forensics/tunn3l v1s10n.md",
     "PicoCTF/Forensics/Matryoshka doll.md",
     "PicoCTF/Forensics/WebNet0.md",
     "PicoCTF/Forensics/WebNet1.md",
-    "PicoCTF/Forensics/MacroHard WeakEdge.md",
     "PicoCTF/web/WebDecode.md",
     "PicoCTF/web/IntroToBurp.md",
     "PicoCTF/web/Unminify.md",
@@ -182,22 +197,8 @@
     "PicoCTF/web/Secrets.md",
     "PicoCTF/web/Robot Sans.md",
     "PicoCTF/web/Power Cookie.md",
-    "PicoCTF/web/Local Authority.md",
-    "PicoCTF/Cripto/RsaPopQuiz.md",
-    "PicoCTF/web/Inspect HTML.md",
-    "PicoCTF/web/Insp3ct0r.md",
-    "PicoCTF/web/Includes.md",
-    "PicoCTF/GenerallSkills/ASCII Numbers.md",
-    "PicoCTF/GenerallSkills/binhexa.md",
-    "PicoCTF/GenerallSkills/Binary Search.md",
-    "PicoCTF/GenerallSkills/Collaborative Development.md",
-    "PicoCTF/Cripto/b00tl3gRSA3.md",
-    "PicoCTF/Cripto/Mind your Ps and Qs.md",
-    "PicoCTF/Cripto/b00tl3gRSA2.md",
     "Adjuntos/Pasted image 20250522133939.png",
-    "PicoCTF/Cripto/miniRSA.md",
     "PicoCTF/Cripto",
-    "PicoCTF/Forensics/Operation Oni.md",
     "Adjuntos/Pasted image 20250415144015.png",
     "Adjuntos/Pasted image 20250415134914.png",
     "Adjuntos/Pasted image 20250415134900.png",

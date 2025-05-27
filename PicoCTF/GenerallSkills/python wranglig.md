@@ -7,13 +7,13 @@ Hints:
 # Solución
 Copiamos los archivos con wget a nuestro directorio de trabajo, al analizar el código python vemos que acepta las opcioens de -d y -e. Lo que queremos es decodificar la flag, por lo que hacer lo siguiente:`
 ```
-┌──(diego㉿Tallin)-[~/pico/Parcial1GS/PythonWrangling]
+┌──(Peche㉿Kali)-[~/pico/Parcial1GS/PythonWrangling]
 └─$ python ende.py -d flag.txt.en 
 Please enter the password:
 ```
 Nos pide una contraseña por lo que pegamos lo que hay dentro del archivo pw.txt y vemos la flag
 ```
-┌──(diego㉿Tallin)-[~/pico/Parcial1GS/PythonWrangling]
+┌──(Peche㉿Kali)-[~/pico/Parcial1GS/PythonWrangling]
 └─$ python ende.py -d flag.txt.en       
 Please enter the password:ac9bd0ffac9bd0ffac9bd0ffac9bd0ff
 picoCTF{4p0110_1n_7h3_h0us3_ac9bd0ff}

@@ -47,14 +47,14 @@ Ponemos llaves, así es como se imprime:
 ```
 Finalmente compilamos el código 
 ```
-┌──(diego㉿Tallin)-[~/pico/Parcial1GS/Rustfixme1/fixme1]
+┌──(Peche㉿Kali)-[~/pico/Parcial1GS/Rustfixme1/fixme1]
 └─$ cargo build 
-   Compiling rust_proj v0.1.0 (/home/diego/pico/Parcial1GS/Rustfixme1/fixme1)
+   Compiling rust_proj v0.1.0 (/home/Peche/pico/Parcial1GS/Rustfixme1/fixme1)
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.37s
 ```
 Y lo corremos
 ```
-┌──(diego㉿Tallin)-[~/pico/Parcial1GS/Rustfixme1/fixme1]
+┌──(Peche㉿Kali)-[~/pico/Parcial1GS/Rustfixme1/fixme1]
 └─$ cargo run  
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.01s
      Running `target/debug/rust_proj`

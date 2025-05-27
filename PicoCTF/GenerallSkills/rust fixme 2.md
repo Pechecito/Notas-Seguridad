@@ -27,11 +27,11 @@ fn decrypt(encrypted_buffer:Vec<u8>, borrowed_string: &mut String){ // How do we
 ```
 Finalmente compilamos y corremos para ver la flag
 ```
-┌──(diego㉿Tallin)-[~/pico/Parcial1GS/Rustfixme2/fixme2]
+┌──(Peche㉿Kali)-[~/pico/Parcial1GS/Rustfixme2/fixme2]
 └─$ cargo build
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.03s
                                                                                                                                                                    
-┌──(diego㉿Tallin)-[~/pico/Parcial1GS/Rustfixme2/fixme2]
+┌──(Peche㉿Kali)-[~/pico/Parcial1GS/Rustfixme2/fixme2]
 └─$ cargo run  
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.01s
      Running `target/debug/rust_proj`

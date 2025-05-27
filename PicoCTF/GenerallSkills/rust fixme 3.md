@@ -52,12 +52,12 @@ Descomentamos la parte de unsafe y las llaves
 ```
 Compilamos y corremos para ver la flag
 ```
-┌──(diego㉿Tallin)-[~/pico/Parcial1GS/Rustfixme3/fixme3]
+┌──(Peche㉿Kali)-[~/pico/Parcial1GS/Rustfixme3/fixme3]
 └─$ cargo build
-   Compiling rust_proj v0.1.0 (/home/diego/pico/Parcial1GS/Rustfixme3/fixme3)
+   Compiling rust_proj v0.1.0 (/home/Peche/pico/Parcial1GS/Rustfixme3/fixme3)
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.26s
                                                                                                                                                                    
-┌──(diego㉿Tallin)-[~/pico/Parcial1GS/Rustfixme3/fixme3]
+┌──(Peche㉿Kali)-[~/pico/Parcial1GS/Rustfixme3/fixme3]
 └─$ cargo run  
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.00s
      Running `target/debug/rust_proj`
