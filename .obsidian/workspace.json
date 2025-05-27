@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/GenerallSkills/binhexa.md",
+                "file": "PicoCTF/GenerallSkills/ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "binhexa"
+              "title": "ASCII Numbers"
             }
           }
         ],
@@ -185,8 +185,9 @@
   },
   "active": "80b5c342aee61db7",
   "lastOpenFiles": [
-    "PicoCTF/GenerallSkills/Binary Search.md",
     "PicoCTF/GenerallSkills/binhexa.md",
+    "PicoCTF/GenerallSkills/ASCII Numbers.md",
+    "PicoCTF/GenerallSkills/Binary Search.md",
     "PicoCTF/GenerallSkills/Collaborative Development.md",
     "PicoCTF/Cripto/b00tl3gRSA3.md",
     "PicoCTF/Cripto/Mind your Ps and Qs.md",
@@ -212,7 +213,6 @@
     "PicoCTF/web/dont-use-client-side.md",
     "PicoCTF/web/Client-side-again.md",
     "PicoCTF/GenerallSkills/rust fixme 3.md",
-    "PicoCTF/GenerallSkills/rust fixme 2.md",
     "Adjuntos/Pasted image 20250415144015.png",
     "Adjuntos/Pasted image 20250415134914.png",
     "Adjuntos/Pasted image 20250415134900.png",
