@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/GenerallSkills/rust fixme 3.md",
+                "file": "PicoCTF/Cripto/interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rust fixme 3"
+              "title": "interencdec"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tallin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,10 +170,18 @@
   },
   "active": "5d04bf737fceaff4",
   "lastOpenFiles": [
+    "PicoCTF/Cripto/la cifra de.md",
+    "PicoCTF/Cripto/Waves over lambda.md",
+    "PicoCTF/Cripto/Tapping.md",
+    "PicoCTF/Cripto/Easy1.md",
+    "PicoCTF/Cripto/Caesar.md",
+    "PicoCTF/Cripto/13.md",
+    "PicoCTF/Cripto/The Numbers.md",
+    "PicoCTF/GenerallSkills/rust fixme 3.md",
+    "PicoCTF/Cripto/interencdec.md",
     "PicoCTF/GenerallSkills/rust fixme 1.md",
     "PicoCTF/GenerallSkills/rust fixme 2.md",
     "PicoCTF/GenerallSkills/python wranglig.md",
-    "PicoCTF/GenerallSkills/rust fixme 3.md",
     "PicoCTF/Forensics/flags are stepic.md",
     "PicoCTF/Forensics/Ph4nt0m 1ntrud3r.md",
     "PicoCTF/Forensics/RED.md",
@@ -189,14 +196,6 @@
     "PicoCTF/Forensics/tunn3l v1s10n.md",
     "PicoCTF/Forensics/Matryoshka doll.md",
     "PicoCTF/Forensics/WebNet0.md",
-    "PicoCTF/Forensics/WebNet1.md",
-    "PicoCTF/web/WebDecode.md",
-    "PicoCTF/web/IntroToBurp.md",
-    "PicoCTF/web/Unminify.md",
-    "PicoCTF/web/SQLiLite.md",
-    "PicoCTF/web/Secrets.md",
-    "PicoCTF/web/Robot Sans.md",
-    "PicoCTF/web/Power Cookie.md",
     "Adjuntos/Pasted image 20250522133939.png",
     "PicoCTF/Cripto",
     "Adjuntos/Pasted image 20250415144015.png",
